@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2a0a2a0-f12d-46aa-8fce-889083fbaa38)![image](https://github.com/user-attachments/assets/db579029-25c5-4f9b-b4c8-7e48119673af)# Fisch - Your Ultimate Tool
+# Fisch: The only script you need.
 
 <details>
 <summary>Fisch - Features</summary>
