@@ -1,7 +1,7 @@
 # Lunor: The only script you need.
 
 <details>
-<summary>Fisch - Features</summary>
+<summary>Fisch</summary>
 
 ### Supported Executors
 <details>
