@@ -1,11 +1,11 @@
 # Fisch: The only script you need.
 
-<details open>
+<details>
 <summary>Fisch - Features</summary>
 
 ### Supported Executors
 <details open>
-<summary>Supported Executors</summary>
+<summary>Click to expand</summary>
 
 PC:
 - [Solara](https://getsolara.dev) - Free
@@ -31,7 +31,7 @@ Mobile:
 
 ### Features
 <details open>
-<summary>Features</summary>
+<summary>Click to expand</summary>
 
 Showcase Video ( 01/Jan/2024)
 
