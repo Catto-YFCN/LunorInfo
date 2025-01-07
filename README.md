@@ -16,7 +16,6 @@ PC:
 - Synapse Z - Paid
 - AWP - Paid
 
-
 Mobile:
 - Codex - Free
 - Arceus - Free
@@ -31,7 +30,7 @@ Mobile:
 
 Showcase Video ( 01/Jan/2024)
 
-[![Showcase Video](https://img.youtube.com/vi/ryENlfklOR4/0.jpg)](https://www.youtube.com/watch?v=ryENlfklOR4)
+[![Showcase Video](https://imgur.com/a/ww2BODd)](https://www.youtube.com/watch?v=ryENlfklOR4)
 
 </details>
 
