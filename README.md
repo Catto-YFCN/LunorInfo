@@ -1,6 +1,6 @@
 # Fisch: The only script you need.
 
-<details>
+<details open>
 <summary>Fisch - Features</summary>
 
 ### Supported Executors
